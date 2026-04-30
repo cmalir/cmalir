@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cmalir
-- 👀 I’m interested in Software Localization
-- 🌱 I’m currently learning Python3, HTML5/CSS
-- 💞️ I’m looking to collaborate on... I'm just learning at the moment.
+- 👀 I’m interested in Software Localization, and Data Science
+- 🌱 I’m currently learning SQL, Python3, HTML5/CSS
+- 💞️ I’m looking to learn and build my portfolio.
 - 📫 How to reach me ...
 
 <!---
